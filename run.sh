@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # MSocietyTrace Launcher Script
-# Author: SebSecRepos
+# Author: M-Society Dev Team / c1q_ / Cyk
 # Version: 2.0
 
 # Dark professional colors
